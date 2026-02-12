@@ -92,7 +92,7 @@ Question:
 220K 
 
 Task 2: Add Slicer
-<img width="1920" height="1080" alt="ss" src="https://github.com/user-attachments/assets/1a9d0443-b28e-4e1b-a3dd-2df9c547f8e4" />
+<img width="1920" height="1080" alt="add slicer" src="https://github.com/user-attachments/assets/4fc45d20-e0b8-430f-9f54-542881df75ce" />
 Question:
 ● What happens to other visuals when you click a region?<br>
 Other visuals automatically filter or highlight to show data for that selected region only.
