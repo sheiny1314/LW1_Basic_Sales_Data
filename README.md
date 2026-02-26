@@ -1,5 +1,6 @@
 
-STEP 1
+STEP 1: Step1: Open Power BI Desktop, Click Start, Open Microsoft Power BI Desktop
+
 <img width="1920" height="1080" alt="home" src="https://github.com/user-attachments/assets/41962bec-6b0d-4730-a1f0-4c8527f36947" />
 
 STEP 2
