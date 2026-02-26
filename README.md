@@ -3,7 +3,7 @@ STEP 1: Step1: Open Power BI Desktop, Click Start, Open Microsoft Power BI Deskt
 
 <img width="1920" height="1080" alt="home" src="https://github.com/user-attachments/assets/41962bec-6b0d-4730-a1f0-4c8527f36947" />
 
-STEP 2
+STEP 2 Load Dataset
 <img width="1920" height="1080" alt="shei" src="https://github.com/user-attachments/assets/92051311-1bb1-4922-9ac3-a215090767a5" />
 
 Step 3 Verify Data in Data View
